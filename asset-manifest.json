@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dark-knight--/static/css/main.e83ffd67.css",
+    "main.js": "/dark-knight--/static/js/main.25a9a286.js",
+    "static/js/787.956033a5.chunk.js": "/dark-knight--/static/js/787.956033a5.chunk.js",
+    "static/media/homeee.jpg": "/dark-knight--/static/media/homeee.fa012f24e7d6a4591d1c.jpg",
+    "static/media/4.jpg": "/dark-knight--/static/media/4.5d68c02df4551ebc4256.jpg",
+    "static/media/2.jpg": "/dark-knight--/static/media/2.77c421faab64c97ba8e3.jpg",
+    "static/media/3.jpg": "/dark-knight--/static/media/3.53f529c58d905cb4e178.jpg",
+    "static/media/aa.jpg": "/dark-knight--/static/media/aa.8ac405ceba2beaa065b0.jpg",
+    "static/media/8.jpg": "/dark-knight--/static/media/8.6dd6354d36a291099ee7.jpg",
+    "static/media/1.jpg": "/dark-knight--/static/media/1.2d8bf5e6d107d1355320.jpg",
+    "index.html": "/dark-knight--/index.html",
+    "main.e83ffd67.css.map": "/dark-knight--/static/css/main.e83ffd67.css.map",
+    "main.25a9a286.js.map": "/dark-knight--/static/js/main.25a9a286.js.map",
+    "787.956033a5.chunk.js.map": "/dark-knight--/static/js/787.956033a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e83ffd67.css",
+    "static/js/main.25a9a286.js"
+  ]
+}
